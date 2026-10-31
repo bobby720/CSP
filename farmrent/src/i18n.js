@@ -1,0 +1,12 @@
+export const T={en:{home:'Home',browse:'Browse Equipment',how:'How It Works',list:'List Your Equipment',listBtn:'List Equipment',login:'Login',dash:'My Rentals',
+hero:'Find the Right Equipment for Your Farm.',sub:'Discover agricultural equipment near you. Rent what you need, when you need it.',loc:'Your location',useLoc:'Use My Location',equip:'What do you need?',find:'Find Equipment',
+within:'Within',km:'km',all:'All areas',nearest:'Nearest first',low:'Lowest price first',high:'Highest price first',recent:'Recently listed',away:'km away',owner:'Owner',avail:'Available',unavail:'Not available',
+details:'View Details',request:'Request to Rent',pending:'Pending',approved:'Approved',rejected:'Rejected',completed:'Completed',cancelled:'Cancelled',clear:'Clear All Filters',noRes:'No equipment found in this area.',
+filters:'Filters',price:'Price (₹)',category:'Category',sort:'Sort by',results:'matching sample listings',cats:'Equipment categories',nearby:'Equipment near you',viewAll:'View All Equipment',
+step1:'Choose your location',step2:'Find and select equipment',step3:'Request a rental from the owner',impact:'Rent it. Don’t buy it.',demo:'Prototype demo – all listings, distances and bookings are illustrative sample data.'},
+te:{home:'హోమ్',browse:'పరికరాలు చూడండి',how:'ఎలా పనిచేస్తుంది',list:'మీ పరికరాన్ని జాబితా చేయండి',listBtn:'పరికరం జాబితా చేయండి',login:'లాగిన్',dash:'నా అద్దెలు',
+hero:'మీ పొలానికి సరైన పరికరాన్ని కనుగొనండి.',sub:'మీకు దగ్గరలోని వ్యవసాయ పరికరాలను కనుగొనండి. మీకు కావలసినప్పుడు అద్దెకు తీసుకోండి.',loc:'మీ ప్రాంతం',useLoc:'నా లొకేషన్ వాడండి',equip:'మీకు ఏమి కావాలి?',find:'పరికరాలు వెతకండి',
+within:'లోపు',km:'కి.మీ',all:'అన్ని ప్రాంతాలు',nearest:'దగ్గరివి ముందు',low:'తక్కువ ధర ముందు',high:'ఎక్కువ ధర ముందు',recent:'ఇటీవల జాబితా చేసినవి',away:'కి.మీ దూరం',owner:'యజమాని',avail:'అందుబాటులో ఉంది',unavail:'అందుబాటులో లేదు',
+details:'వివరాలు చూడండి',request:'అద్దెకు అభ్యర్థించండి',pending:'పెండింగ్',approved:'ఆమోదించబడింది',rejected:'తిరస్కరించబడింది',completed:'పూర్తయింది',cancelled:'రద్దయింది',clear:'ఫిల్టర్లు తొలగించండి',noRes:'ఈ ప్రాంతంలో పరికరాలు కనబడలేదు.',
+filters:'ఫిల్టర్లు',price:'ధర (₹)',category:'వర్గం',sort:'క్రమం',results:'సరిపోలే నమూనా జాబితాలు',cats:'పరికరాల వర్గాలు',nearby:'మీ దగ్గరి పరికరాలు',viewAll:'అన్ని పరికరాలు చూడండి',
+step1:'మీ ప్రాంతాన్ని ఎంచుకోండి',step2:'పరికరాన్ని ఎంచుకోండి',step3:'యజమానికి అద్దె అభ్యర్థన పంపండి',impact:'కొనకండి, అద్దెకు తీసుకోండి.',demo:'ప్రోటోటైప్ డెమో – అన్ని జాబితాలు, దూరాలు, బుకింగ్‌లు నమూనా డేటా మాత్రమే.'}};

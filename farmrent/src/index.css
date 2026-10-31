@@ -1,0 +1,4 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+body{@apply bg-cream text-ink font-sans antialiased overflow-x-hidden}
+:focus-visible{outline:3px solid #E8B44A;outline-offset:2px}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
