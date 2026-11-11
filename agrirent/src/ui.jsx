@@ -1,4 +1,4 @@
-import {Link} from 'react-router-dom';import {Heart,MapPin,User,Tractor,Wheat,Cog,Sprout,SprayCan,Shovel,Axe,Droplets} from 'lucide-react';import {useApp} from './store';import {CATS} from './data';
+import {Link} from 'react-router-dom';import {Heart,MapPin,User,Tractor,Wheat,Cog,Sprout,SprayCan,Shovel,Axe,Droplets} from 'lucide-react';import {useApp} from './store';
 export const ICONS={tractor:Tractor,harvester:Wheat,rotavator:Cog,seeddrill:Sprout,sprayer:SprayCan,tiller:Shovel,plough:Axe,irrigation:Droplets};
 const b='inline-flex items-center justify-center gap-2 rounded-lg px-4 py-2.5 font-semibold transition disabled:opacity-50 ';
 export const P=b+'bg-forest text-white hover:bg-fresh';export const S=b+'border border-line bg-white hover:bg-cream';export const G=b+'bg-gold text-ink hover:brightness-95';

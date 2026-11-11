@@ -1,4 +1,4 @@
-# FarmRent (frontend-only prototype)
+# AgriRent (frontend-only prototype)
 Agricultural equipment rental marketplace demo. React + Vite + Tailwind + React Router + Lucide. No backend, no API keys.
 
 ## Run
